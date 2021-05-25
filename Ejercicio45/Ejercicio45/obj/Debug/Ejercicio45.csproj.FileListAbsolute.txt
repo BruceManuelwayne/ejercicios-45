@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicios-45\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicios-45\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicios-45\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicios-45\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicios-45\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicios-45\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicios-45\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.pdb
